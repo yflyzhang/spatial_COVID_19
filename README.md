@@ -1,1 +1,1 @@
-# spatial_COVID_19
+# Data and code release for the paper entitled: 
