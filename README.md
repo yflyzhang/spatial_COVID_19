@@ -30,6 +30,16 @@
 ---
 ### Main dependencies:
 
+To execute the tutorial, make sure you have Python 3, R/R-Studio and Jupyter notebook installed.
+
+To run R script in Jupyter, [IRkernel](https://github.com/IRkernel/IRkernel) is required. This package is available on CRAN and you can install it in R/R-Studio Console by:
+```
+install.packages('IRkernel')
+IRkernel::installspec()  # to register the kernel in the current R installation; 
+                         # if it doesn't work, you may enter R from your system terminal,
+                         # then try this command again
+```
+
 #### Python
 ```
 os
