@@ -11,9 +11,10 @@
 ### Tutorials in this repository:
 
 `Figure1-Plot.ipynb`: plot Figure 1 in Python
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="15"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="12.5"/>
 
 `Figure2-Spatial analysis by R.ipynb`: spatial analysis of the spread of COVID-19 in R
+<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="12.5"/>
 
 `Figure2-Spatial analysis and plot.ipynb`: spatial analysis of the spread of COVID-19 and plot Figure 2 in Python
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="15"/>
