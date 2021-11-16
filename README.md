@@ -1,10 +1,10 @@
 ### Data and code release for the paper entitled: 
-#### 'The spatial dissemination of COVID-19 and associated socio-economic consequences'
+#### `The spatial dissemination of COVID-19 and associated socio-economic consequences`
 <br/>
 
 
 
-![plot](human_mobility_network.jpg | width=400)
+![plot](human_mobility_network.jpg)
 
 
 <br/>
