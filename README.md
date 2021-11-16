@@ -1,5 +1,5 @@
 # Data and code release for the paper entitled: 
-The spatial dissemination of COVID-19 and associated socio-economic consequences
+#### The spatial dissemination of COVID-19 and associated socio-economic consequences
 <br/>
 
 
@@ -25,7 +25,8 @@ The spatial dissemination of COVID-19 and associated socio-economic consequences
 
 <br/>
 
-Main dependencies:
+---
+### Main dependencies:
 
 #### Python
 ```
