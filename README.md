@@ -11,17 +11,20 @@
 ### Tutorials in this repository:
 
 `Figure1-Plot.ipynb`: plot Figure 1 in Python
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="20"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="15"/>
 
 `Figure2-Spatial analysis by R.ipynb`: spatial analysis of the spread of COVID-19 in R
 
 `Figure2-Spatial analysis and plot.ipynb`: spatial analysis of the spread of COVID-19 and plot Figure 2 in Python
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="15"/>
 
 `Figure3-Outbreak analysis by R.ipynb`: outbreak analysis of the spread of COVID-19 in R
 
 `Figure3-Plot.ipynb`: plot Figure 3 in Python
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="15"/>
 
 `Figure4-Plot.ipynb`: plot Figure 4 in Python
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="15"/>
 
 `Table1-Economic analysis by R`: economic development analysis in R
 
