@@ -8,7 +8,7 @@
 
 <br/>
 
-### Tutorials in this repository:
+### 🚀 Tutorials in this repository:
 
 `Figure1-Plot.ipynb`: plot Figure 1 in Python
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="15"/>
@@ -34,7 +34,7 @@
 <br/>
 
 ---
-### Main dependencies:
+### ⚡ Main dependencies:
 
 To execute the tutorial, make sure you have Python 3, R/R-Studio and Jupyter notebook installed.
 
@@ -67,6 +67,6 @@ IRkernel::installspec()  # register the kernel in the current R installation
 
 
 
----
+--
 
 Should you have any further quires about the code and data, please contact at: yflyzhang_at_gmail.com
