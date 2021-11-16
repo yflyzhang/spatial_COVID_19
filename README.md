@@ -4,7 +4,7 @@
 
 
 
-![](human_mobility_network.jpg | width=400)
+![plot](human_mobility_network.jpg | width=400)
 
 
 <br/>
