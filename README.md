@@ -6,6 +6,8 @@
 
 ![plot](human_mobility_network.jpg)
 
+![Alt text](human_mobility_network.jpg?raw=true "Optional Title")
+
 
 <br/>
 
