@@ -1,5 +1,4 @@
-# Data and code release for the paper entitled: 
-#### The spatial dissemination of COVID-19 and associated socio-economic consequences
+### Data and code release for the paper entitled: #### The spatial dissemination of COVID-19 and associated socio-economic consequences
 <br/>
 
 
