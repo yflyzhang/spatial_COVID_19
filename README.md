@@ -1,5 +1,5 @@
 #### Data and code release for the paper entitled: 
-#### 📝 The spatial dissemination of COVID-19 and associated socio-economic consequences
+#### 📝 > The spatial dissemination of COVID-19 and associated socio-economic consequences
 <br/>
 
 <img src="human_mobility_network.jpg" alt="Your image title" width="700"/>
@@ -10,7 +10,7 @@
 
 ### Tutorials in this repository:
 
-`Figure1-Plot.ipynb`: plot Figure 1 in Python
+`Figure1-Plot.ipynb`: plot Figure 1 in Python ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 `Figure2-Spatial analysis by R.ipynb`: spatial analysis of the spread of COVID-19 in R
 
