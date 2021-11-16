@@ -10,7 +10,7 @@
 
 ### Tutorials in this repository:
 
-`Figure1-Plot.ipynb`: plot Figure 1 in Python ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+`Figure1-Plot.ipynb`: plot Figure 1 in Python ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 | height=10)
 
 `Figure2-Spatial analysis by R.ipynb`: spatial analysis of the spread of COVID-19 in R
 
