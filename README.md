@@ -67,6 +67,6 @@ IRkernel::installspec()  # register the kernel in the current R installation
 
 
 
---
+---
 
 Should you have any further quires about the code and data, please contact at: yflyzhang_at_gmail.com
