@@ -5,7 +5,7 @@
 
 
 <!-- ![plot](human_mobility_network.jpg) -->
-<img src="human_mobility_network.jpg" alt="Your image title" width="250"/>
+<img src="human_mobility_network.jpg" alt="Your image title" width="750"/>
 
 
 
