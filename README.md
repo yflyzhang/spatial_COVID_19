@@ -44,7 +44,7 @@ install.packages('IRkernel')
 IRkernel::installspec()  # register the kernel in the current R installation
 ```
 
-#### Python
+#### Python package
   ```
   os
   numpy
@@ -56,7 +56,7 @@ IRkernel::installspec()  # register the kernel in the current R installation
   collections
   ```
 
-#### R
+#### R package
   ```
   readr
   MASS
