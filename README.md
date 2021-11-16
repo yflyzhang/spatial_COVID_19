@@ -1,5 +1,5 @@
-#### Data and code release for the paper entitled: 
-#### 📝 > The spatial dissemination of COVID-19 and associated socio-economic consequences
+#### 📝 Data and code release for the paper entitled: 
+#### > The spatial dissemination of COVID-19 and associated socio-economic consequences
 <br/>
 
 <img src="human_mobility_network.jpg" alt="Your image title" width="700"/>
@@ -11,15 +11,16 @@
 ### Tutorials in this repository:
 
 `Figure1-Plot.ipynb`: plot Figure 1 in Python
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="12.5"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="15"/>
 
 `Figure2-Spatial analysis by R.ipynb`: spatial analysis of the spread of COVID-19 in R
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="12.5"/>
+<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="15"/>
 
 `Figure2-Spatial analysis and plot.ipynb`: spatial analysis of the spread of COVID-19 and plot Figure 2 in Python
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="15"/>
 
 `Figure3-Outbreak analysis by R.ipynb`: outbreak analysis of the spread of COVID-19 in R
+<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="15"/>
 
 `Figure3-Plot.ipynb`: plot Figure 3 in Python
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="15"/>
@@ -28,6 +29,7 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="15"/>
 
 `Table1-Economic analysis by R`: economic development analysis in R
+<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="15"/>
 
 <br/>
 
