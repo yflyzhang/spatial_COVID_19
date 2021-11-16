@@ -14,7 +14,7 @@
 
 `Figure2-Spatial analysis by R.ipynb`: spatial analysis of the spread of COVID-19 in R
 
-`Figure2-Spatial analysis and plot.ipynb`: spatial analysis of the spread of COVID-19 in Python and plot Figure 2
+`Figure2-Spatial analysis and plot.ipynb`: spatial analysis of the spread of COVID-19 and plot Figure 2 in Python
 
 `Figure3-Outbreak analysis by R.ipynb`: outbreak analysis of the spread of COVID-19 in R
 
