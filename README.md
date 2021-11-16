@@ -4,7 +4,7 @@
 
 
 
-![plot](.human_mobility_network.png)
+![plot](human_mobility_network.png)
 
 
 <br/>
