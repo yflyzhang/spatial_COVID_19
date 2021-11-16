@@ -4,7 +4,7 @@
 
 
 
-<img src="human_mobility_network.png" width="700" />
+![plot](.human_mobility_network.png)
 
 
 <br/>
