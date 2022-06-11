@@ -1,5 +1,7 @@
 ### 📝 Data and code release for the paper entitled: 
 #### > The spatial dissemination of COVID-19 and associated socio-economic consequences
+$\quad$ [https://royalsocietypublishing.org/doi/10.1098/rsif.2021.0662](https://royalsocietypublishing.org/doi/10.1098/rsif.2021.0662)
+
 <br/>
 
 <img src="human_mobility_network.jpg" alt="Your image title" width="650"/>
@@ -65,5 +67,32 @@ IRkernel::installspec()  # register the kernel in the current R installation
 
 
 ---
+#### If you find this useful in your project, please consider citing our paper:
+> **The spatial dissemination of COVID-19 and associated socio-economic consequences**. <br/>
+[https://royalsocietypublishing.org/doi/10.1098/rsif.2021.0662](https://royalsocietypublishing.org/doi/10.1098/rsif.2021.0662) <br/>
+Yafei Zhang, Lin Wang, Jonathan J. H. Zhu, Xiaofan Wang <br/>
+<em>Journal of the Royal Society Interface</em>, 19(187), 20210662 (2022). <br/>
+
+
+
+##### BibTeX Citation
+
+```
+@article{Zhang2022,
+    author = {Zhang, Yafei  and Wang, Lin  and Zhu, Jonathan J. H.  and Wang, Xiaofan},
+    title = {The spatial dissemination of COVID-19 and associated socio-economic consequences},
+    journal = {Journal of The Royal Society Interface},
+    volume = {19},
+    number = {187},
+    pages = {20210662},
+    year = {2022},
+    doi = {10.1098/rsif.2021.0662},
+    URL = {https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2021.0662},
+    eprint = {https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2021.0662},
+}
+```
+
+
+
 
 Should you have any further quires about the code and data, please contact at: yflyzhang_at_gmail.com
